@@ -29,4 +29,4 @@ To run the Jupyter Notebook (`stack_overflow_complete_analysis.ipynb`), you will
   - **seaborn** ([GitHub](https://github.com/mwaskom/seaborn))
   
  
-[Read the full blog post here](https://medium.com/@soriano.r242/exploring-developer-salaries-key-insights-from-the-stack-overflow-survey-ce90e2207992))
+[Read the full blog post here](https://medium.com/@soriano.r242/exploring-developer-salaries-key-insights-from-the-stack-overflow-survey-ce90e2207992)
